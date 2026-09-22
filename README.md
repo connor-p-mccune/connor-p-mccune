@@ -23,11 +23,6 @@ A Python CLI that audits an AWS account against NIST SP 800-171 Rev 2, separates
 
 `Python` `boto3` `AWS` `Terraform` `pytest` `moto` `YAML`
 
-## More projects
-
-- **[vulnpipe](https://github.com/connor-p-mccune/vulnpipe)** — Network + web vulnerability scanning pipeline that orchestrates Nmap and OWASP ZAP, enriches findings with CVSS/CVE/EPSS, and outputs prioritized HTML/JSON/SARIF reports with a CI gate
-- **[netsentry](https://github.com/connor-p-mccune/netsentry)** — ML network intrusion detection that pairs a supervised classifier for known attacks with an anomaly detector for novel ones, served behind a real-time API with explainable predictions
-
 ## Toolbox
 
 | Area | Tools & frameworks |
